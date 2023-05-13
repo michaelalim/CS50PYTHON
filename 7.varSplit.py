@@ -2,7 +2,7 @@
 
 name = input("What is your name? ").strip().title()
 
-# Here, we will assign the name to first name and last naem
+# Here, we will assign the name to first name and last name
 # The " " indicates that we would like to strip off from once space, we could do splits of letters by indicating "" instead of " "
 
 firstname, lastname = name.split(" ")

@@ -20,27 +20,58 @@
 - Another way of printing values using "f"
 """
 
-# 4.var.strip.py
+# 4.varStrip.py
 """
 - Whitespaces on returns
 - Strip function
 """
 
-# 5.var.capitalize.py
+# 5.varCapitalize.py
 """
 - Capitalize function
 - Combination of strip and capitalize
 """
 
-# 6.var.title.py
+# 6.varTitle.py
 """
 - Title function in contrast with capitalize function
 """
 
-# 7.var.split.py
+# 7.varSplit.py
 """
 - Split function
 - Multiple variable assignments
 """
 
 ### INT and FLOAT
+
+# 8. introductionIntAndFloat.py
+"""
+- Just contents on what is int and float
+- What is interactive mode?
+"""
+
+# 9. calculator.py
+"""
+- Basic operations like adding, subtracting, multiplying, dividing
+- What is modulo?
+- Doing modulo operation
+"""
+
+# 10. inputInteraction.py
+"""
+- Limitation of input() function
+- How to convert str to int
+"""
+
+# 11.floatOperations.py
+"""
+- Float operation
+- Round operation
+- Modifying round operation
+"""
+
+#12.commasOnInts.py
+"""
+Inserting commas on numbers
+"""
