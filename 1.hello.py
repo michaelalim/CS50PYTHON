@@ -1,16 +1,16 @@
-#HOW TO RUN PYTHON
+# HOW TO RUN PYTHON
 #!!! USE python (space) filename (in this case hello.py)
-#example of how to run: python hello.py
+# example of how to run: python hello.py
 
-#---------------------------------------------------------------------------------------------------------------------
-#MAIN LESSON
+# ---------------------------------------------------------------------------------------------------------------------
+# MAIN LESSON
 
-#part 1: introduction to printing, variables, and using +, =
+# part 1: introduction to printing, variables, and using +, =
 
-#input used to get data for user
+# input used to get data for user
 name = input("What's your name? ")
 
-#print function, basically saying hello to user using the variable "name"
+# print function, basically saying hello to user using the variable "name"
 print("hello,", name)
 
 """
@@ -19,20 +19,20 @@ NOTE print("hello, " + name) still works like javascript but arguments part (in 
 #version is called concatenation. 
 """
 
-#----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 
-#TIPS on using comments --- this applies to every other programming languages (and non-programming languages)
-#Use this for structuring to-do lists to program you want to do
+# TIPS on using comments --- this applies to every other programming languages (and non-programming languages)
+# Use this for structuring to-do lists to program you want to do
 
-#FOR EXAMPLE
+# FOR EXAMPLE
 
-#ask user what their name is
-#input code
+# ask user what their name is
+# input code
 
-#print hello, (name of user) on the console
-#input code
+# print hello, (name of user) on the console
+# input code
 
-#----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------
 
-#all functions are in docs.python.org
-#more specifically in docs.python.org/3/library/functions.html
+# all functions are in docs.python.org
+# more specifically in docs.python.org/3/library/functions.html

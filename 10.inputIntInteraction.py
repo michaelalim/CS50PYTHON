@@ -13,7 +13,8 @@ print(f"The sum of x and y is (string not converted): {x + y}")
 # TO FIX IT
 # We have to convert strings to int by using int() function
 
-print(f"The sum of x and y which we converted from string to int is: {int(x) + int(y)}")
+print(
+    f"The sum of x and y which we converted from string to int is: {int(x) + int(y)}")
 
 # This now results to 1 + 2 = 3
 

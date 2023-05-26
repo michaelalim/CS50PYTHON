@@ -1,13 +1,13 @@
 # QQQ: Does the input function work for any type of information or only for words (strings)?
-# AAA: According to its documentation, input is expecting to what we call a string. 
+# AAA: According to its documentation, input is expecting to what we call a string.
 # ----------------------------------------------------------------------------------------------------------------------
 # QQQ: How to do many lines of comments?
 # AAA: Continuous hash
 # EXAMPLE
-# 
-# 
-# 
-# 
+#
+#
+#
+#
 # AAA2: Another way is
 """
 Everything in between is a comment

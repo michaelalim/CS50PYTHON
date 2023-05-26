@@ -38,3 +38,12 @@ z = round(x / y, 2)
 print(f"Rounded off two places, the answer is: {z}")
 
 # This should give the answer 0.42
+
+# ----------------------------------------------------------------------------------------------------------------------
+
+# Not using the round function, we could also limit the decimal places by one cryptic syntax
+
+print(
+    f"Quotient of two with two decimal places without using round function: {z:.2f}")
+
+# The same function as round but another way of its syntax without using the function necessarily

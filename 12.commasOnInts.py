@@ -1,5 +1,5 @@
 # We could put commas on our integer outputs which will make the output more readable for the users
-# Example is we would like to make 1000 as 1,000, or 1000000 as 1,000,000 
+# Example is we would like to make 1000 as 1,000, or 1000000 as 1,000,000
 # We could do it using a cryptic function :
 
 x = float(input("First number: "))

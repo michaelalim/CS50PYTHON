@@ -1,7 +1,7 @@
 # STRIP FUNCTION
 # Stripping is removing whitespace on the argument
 # This is a continuation of Hello, name lesson
- 
+
 # ----------------------------------------------------------------------------------------------------------------------
 
 name = input("What is your name? ")
